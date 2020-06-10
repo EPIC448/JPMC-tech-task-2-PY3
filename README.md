@@ -66,3 +66,4 @@ Open http://localhost:3000 to view the app in the browser. The page will reload 
 
 // File seem to have turns of bugs in it. 
  // The Terminal in this computer is updated so far Python 3, Npm 6+  And Homebrew is updated as well. 
+ // Got New errors now... Working on that. 
